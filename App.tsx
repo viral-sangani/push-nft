@@ -1,11 +1,11 @@
 import { NavigationContainer } from "@react-navigation/native";
 import "react-native-gesture-handler";
-import Navigator from "./navigations/Navigator";
+import BottomTabNavigator from "./navigations/BottomTabNavigator";
 
 export default function App() {
   return (
     <NavigationContainer>
-      <Navigator />
+      <BottomTabNavigator />
     </NavigationContainer>
   );
 }
