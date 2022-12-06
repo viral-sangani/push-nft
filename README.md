@@ -21,7 +21,7 @@ yarn start
 
 ### Demo
 
-![Demo](https://drive.google.com/file/d/1hWh1es3k4KjQRD9V0mO0-oDNJfTbL-ZK/view?usp=sharing)
+[Demo](https://drive.google.com/file/d/1hWh1es3k4KjQRD9V0mO0-oDNJfTbL-ZK/view?usp=sharing)
 
 ### Chanllenge Details
 
